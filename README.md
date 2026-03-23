@@ -1,6 +1,6 @@
 # Object-Oriented Programming (C++)
 
-This repository contains my practice and implementations of Object-Oriented Programming concepts using C++. It focuses on designing modular, reusable, and scalable code using core OOP principles.
+>This repository contains my practice and implementations of Object-Oriented Programming concepts using C++. It focuses on designing modular, reusable, and scalable code using core OOP principles.
 
 ## Topics Covered
 - Classes and Objects
